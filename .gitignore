@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+app_working_backup.py
+test_inside.py
